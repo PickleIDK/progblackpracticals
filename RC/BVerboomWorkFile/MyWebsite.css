@@ -1,6 +1,6 @@
 p {
-    background-color: blue;
-    color: white;
+    background-color: lightgrey;
+    color: black;
 }
 
 ul {
@@ -14,3 +14,8 @@ html {
 table, th, td {
         border:1px solid black;
     }   
+
+table, tr, th{
+    column-width: 500px;
+    background-color: whitesmoke;
+}
